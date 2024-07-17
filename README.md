@@ -9,7 +9,8 @@ This project is a job service application built using a microservices architectu
 3. **Robust Infrastructure**: Containerized using Docker and orchestrated with Kubernetes for scalability and reliability.
 
 ## Technologies Used
-- **Programming Languages**: Python, JavaScript, etc.
+- **Programming Languages**: Java
+- - **Framework**: Springboot
 - **Microservices**: Custom-built for company, job, and review management
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
